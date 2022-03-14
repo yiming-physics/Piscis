@@ -2,12 +2,7 @@
 
 ## Introduction
 
-<font size=4>**Pisicis**</font> [’bi:ʃıs] is a  simple Python library for
-quantum computing based on state vector method. 
-If you have requirements of speed, I recommend you 
-to use other mature toolkits such as Qiskit based on Python
-and QuEST based on C/C++. However, for a quick and convenient verification of 
-quantum algorithms with few qubits, Piscis is nice, and this is the motivation for me to write this toolkit.
+<font size=4>**Pisicis**</font> [’bi:ʃıs] is a  simple Python library for quantum computing based on state vector method. If you have requirements of speed, I recommend you to use other mature toolkits such as QuEST (C/C++), CuQuantum (C/C++) and Qiskit (Python). However, for the purpose of a quick and convenient verification of quantum algorithms with few qubits, Piscis is useful, and this is the motivation for me to write this toolkit.
 
 ## Features
 
