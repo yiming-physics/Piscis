@@ -82,9 +82,7 @@ The probability of the 2nd qubit to be 0 is 0.95048443.
 
 
 Standard quantum computing process (measure and read) and basic 
-quantum gates are also available in Piscis. 
-
-For more functions, see APIs.
+quantum gates are also available in Piscis. See more in APIs.
 
 ## APIs
 See *APIs.md*.
