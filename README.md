@@ -1,8 +1,8 @@
-# Piscis V0.0.0.1
+# Piscis 
 
 ## Introduction
 
-<font size=4>**Pisicis**</font> [’bi:ıs] is a  simple Python library for
+<font size=4>**Pisicis**</font> [’bi:ʃıs] is a  simple Python library for
 quantum computing based on state vector method. 
 If you have requirements of speed, I recommend you 
 to use other mature toolkits such as Qiskit based on Python
