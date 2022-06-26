@@ -90,5 +90,5 @@ See *APIs.md*.
 ## Contact
 
 If you find any bug, or have any question/advice, you may 
-email me by **dym0107@163.com**.
+email me by **ymding19@fudan.edu.cn**.
 
